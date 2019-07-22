@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRestfulXML
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: manishkumar
+Implementation-Vendor-Id: com.java4s
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRe
+ stfulXML/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
